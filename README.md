@@ -7,7 +7,8 @@ Welcome to the Flavor Fusion restaurant website!
 
 The website was created using HTML and CSS only, with a few lines of JavaScript for necessary cases. The website has 5 pages: Home, Menu, About, Contact, and Booking.
 
-## Demo
+## Live Demo
+https://vishrut225.github.io/Flavor-Fusion/
 
 ## Features
 

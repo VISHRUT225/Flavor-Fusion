@@ -41,7 +41,7 @@ open index.html file
 
 ## 🎞 Screenshots
 
-<img src="./images/Screenshots/1.png" alt="Screenshot 1" style="width: 300px; height: auto;"> &nbsp; <img src="./images/Screenshots/2.png" alt="Screenshot 1" style="width: 300px; height: auto;"> &nbsp; <img src="./images/Screenshots/3.png" alt="Screenshot 1" style="width: 300px; height: auto;">
+<img src="./images/Screenshots/1.png" alt="Screenshot 1" style="width: 300px; height: auto;"> &nbsp; <img src="./images/Screenshots/2.png" alt="Screenshot 1" style="width: 300px; height: auto;"> &nbsp; <img src="./images/Screenshots/3.png" alt="Screenshot 1" style="width: 300px; height: auto;"> &nbsp;
 <img src="./images/Screenshots/4.png" alt="Screenshot 1" style="width: 300px; height: auto;"> &nbsp; <img src="./images/Screenshots/5.png" alt="Screenshot 1" style="width: 300px; height: auto;">
 
 

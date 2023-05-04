@@ -17,12 +17,12 @@ https://vishrut225.github.io/Flavor-Fusion/
 - Contact page with a contact form and location information
 - Book Table page with booking form
 
-## 📑 Tech Stack
+## 💻 Tech Stack
 
 - HTML
 - CSS
 
-## ▶ Getting Started
+## 🚀 Getting Started
 
 To get started with this project, simply download or clone this repository and open the index.html file in your web browser.
 
